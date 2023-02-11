@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>About Us | Baruch GLASS</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <header>
+      <h1>Baruch GLASS</h1>
+      <nav>
+        <ul>
+          <li><a href="#about">About Us</a></li>
+          <li><a href="#events">Events</a></li>
+          <li><a href="#resources">Resources</a></li>
+          <li><a href="#newsletter">Newsletter</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <h2>About Us</h2>
+      <p>Baruch is the golden standard of diversity. It is the precipice of change, mobility, and inclusion.</p>
+      <p>The core focus of GLASS is to foster community and give undergraduates the ability to feel empowered and supported at Baruch and beyond. We recognize that the student body not only wants support, fun, and engagement but also the ability to expand our professional networks.</p>
+      <p>Our organization operates with a structured E-board and an event committee with the goal of hosting LGBTQIA+ focused social events, speaker panels, and educational seminars. Additionally, we hope to encourage, engage, and foster relationships between students, faculty, employers, and organizations in a constructive and respectful manner.</p>
+      <p>Our E-board will work closely with each and every committee member to organize events with STARR, Student Life, CUNY’s LGBTQIA+ Council, and any other organization that would like to partner with GLASS.</p>
+      <p>Whatever you are capable of or interested in, we want you. GLASS welcomes everyone!</p>
+    </main>
+    <footer>
+      <p>&copy; Baruch GLASS 2023</p>
+    </footer>
+  </body>
+</html>
